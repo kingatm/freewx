@@ -1,0 +1,24 @@
+﻿.body{
+    max-width: 1000px;
+    margin: 0px auto;
+    width: 100%;
+    background: #2da34f;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.body > img{
+    width: 100%;
+}
+.gif{
+    width: 50% !important;margin-bottom: 20px;
+}
+a{
+    color: white;
+    font-size: 18px;
+}
+.kf{
+    position: fixed;
+    right: 10px;
+    top: 30%;
+    width: 60px;
+}
